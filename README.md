@@ -18,8 +18,8 @@ The app design is open, allowing for creative UI and UX choices.
 **Map Search**
 ![Map Feature](screen3.png)
 
-**Map Search**
-![Map Feature](screen4.png)
+**Analytics Screen**
+![Analaytic Feature](screen4.png)
 
 ---
 
