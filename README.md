@@ -10,13 +10,16 @@ The app design is open, allowing for creative UI and UX choices.
 ## App Screenshots
 
 **Main Screen**
-![Main Screen](Images/screen1.png)
+![Main Screen](screen1.png)
 
 **Split View**
-![Split View](Images/screen2.png)
+![Split View](screen2.png)
 
 **Map Search**
-![Map Feature](Images/screen3.png)
+![Map Feature](screen3.png)
+
+**Map Search**
+![Map Feature](screen4.png)
 
 ---
 
