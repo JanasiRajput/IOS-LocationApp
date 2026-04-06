@@ -7,13 +7,6 @@ This iOS app is developed as part of the practical exam for PROG31632. The app f
 
 The app design is open, allowing for creative UI and UX choices.
 
----
-
-## Installation
-1. Clone the repository:
-```bash
-git clone [[https://github.com/JanasiRajput/IOS-LocationApp.git]]
-
 ## App Screenshots
 
 **Main Screen**
@@ -24,3 +17,14 @@ git clone [[https://github.com/JanasiRajput/IOS-LocationApp.git]]
 
 **Map Search**
 ![Map Feature](Images/screen3.png)
+
+---
+
+## Installation
+1. Clone the repository:
+```bash
+git clone [[https://github.com/JanasiRajput/IOS-LocationApp.git]]
+
+
+
+
